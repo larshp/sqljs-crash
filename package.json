@@ -1,0 +1,11 @@
+{
+  "name": "sqljs-crash",
+  "private": true,
+  "version": "1.0.0",
+  "description": "test",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
