@@ -1,0 +1,2 @@
+# sqljs-crash
+test
